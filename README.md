@@ -6,7 +6,7 @@ YouTube Page Clone
 
 ![screenshot](./images/Untitled.png)
 
-Additional description about the project and its features.
+Embedding Images and Video Project
 
 ## Built With
 

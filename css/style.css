@@ -127,3 +127,15 @@ body{
     font-size: 10px;
     cursor: pointer;
 }
+
+.body--structure{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr ;
+    gap: 10px;
+    
+}
+
+.body--leftSide iframe{
+    margin: 10px 0;
+}

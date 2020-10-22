@@ -133,7 +133,7 @@ body{
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr ;
     gap: 10px;
-    
+
 }
 
 .body--leftSide iframe{
@@ -277,7 +277,7 @@ body{
 
 .Description {
     box-shadow: 2px 2px 2px -3px rgba(102,102,102,0.75);
-    
+
 }
 
 .Description-paragraph {
@@ -306,4 +306,22 @@ body{
   padding-top: 10px;
     border-top: 1px solid #e2e2e2;
     cursor: pointer;
+}
+
+.Loading-box img {
+  width: 25px;
+  padding: 0;
+}
+
+.body--right{
+    margin: 10px 10px;
+    background-color: #ffffff;
+    padding: 15px 20px;
+}
+
+.autoplay-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
 }

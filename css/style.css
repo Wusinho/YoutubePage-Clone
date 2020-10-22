@@ -78,3 +78,52 @@ body{
     font-size: 11px;
     cursor: pointer;
 }
+
+.blue-side {
+  display:flex;
+  background-color: #167ac6;
+  color: white;
+  padding-left: 10px;
+  align-items: center;
+  font-size: 12px;
+
+}
+.blue-side img {
+  width: 25px;
+  height: 25px;
+}
+
+.white-side {
+  display:flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 0 20px;
+  font-size: 12px;
+}
+.span__blue {
+  cursor: not-allowed;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #168dcf;
+}
+
+.blue-bar {
+  margin: 15px 0px;
+  border: 2px solid #167ac6;
+}
+
+.white--container{
+    display: flex;
+    align-items: center;
+
+}
+.white--container span{
+    padding: 2px;
+}
+
+.white--container-B{
+    color: #167ac6;
+    font-size: 10px;
+    cursor: pointer;
+}
